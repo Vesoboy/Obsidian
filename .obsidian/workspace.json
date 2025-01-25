@@ -1,0 +1,332 @@
+{
+  "main": {
+    "id": "74f70c2821aa6fde",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9cb59ab7d2cc1bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81180ecf719f5e74",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Golang Tools инструменты-доска.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Golang Tools инструменты-доска"
+            }
+          },
+          {
+            "id": "e091659bea2db3f3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "d057d71795601d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang/5. Tools доп инструменты/Kafka.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kafka"
+            }
+          },
+          {
+            "id": "053517cd7a94a13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Код для справки, интересные штуки/Практика Kafka.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Практика Kafka"
+            }
+          },
+          {
+            "id": "e4e95b428b35e7af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/GoRest/Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          },
+          {
+            "id": "7a27ba6d23d8a0e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/GoRest/Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          },
+          {
+            "id": "209d1d7a7073a014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/gw-exchanger/Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          },
+          {
+            "id": "9522d9d22701b52a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Golang Tools инструменты-доска.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Golang Tools инструменты-доска"
+            }
+          },
+          {
+            "id": "1187d58a22ec5a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86483de4f37ae36b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1b5a0b98fad5426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80a8de98567d1196",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "987da23b85a1d04b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a11a18cb928bfd54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 514.5
+  },
+  "right": {
+    "id": "dd59aa4889eb7af8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfcfb956c6b1c37b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bd7c6ffe1eddf80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "c417fdf8f3b54b63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "8d80ce93a416647f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "15c62d3d13bdd41f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "github-sync:Sync with Remote": false,
+      "audio-recorder:Начать/остановить запись": false
+    }
+  },
+  "active": "81180ecf719f5e74",
+  "lastOpenFiles": [
+    "Notes.md",
+    "Без названия",
+    "().md",
+    "Golang Tools инструменты-доска.md",
+    "Golang/5. Tools доп инструменты/1. gRPC/Примеры/Пример проекта gw-exchanger.md",
+    "Без названия/desktop.ini",
+    "2025-01-25.md",
+    "Project/GoRest/Readme.md",
+    "Project/gw-exchanger/Readme.md",
+    "Golang/5. Tools доп инструменты/Dockerfile.md",
+    "Golang/1. Базовые темы/1. Базовый синтаксис/В языке программирования Go поддерживаются следующие базовые типы данных.md",
+    "Excalidraw/Схема простая CI CD.md",
+    "Golang/5. Tools доп инструменты/CI CD.md",
+    "Golang/5. Tools доп инструменты/2. Настройка и запуск приложений Go через Docker/Примеры/Пример проекта gw-exchanger.md",
+    "Project/Без названия/desktop.ini",
+    "Project/GoRest",
+    "Golang/5. Tools доп инструменты/Kafka.md",
+    "Golang/5. Tools доп инструменты/API, Rest API.md",
+    "Golang/5. Tools доп инструменты/Pipeline.md",
+    "Код для справки, интересные штуки/Практика Pipeline.md",
+    "Код для справки, интересные штуки/Практика Kafka.md",
+    "Код для справки, интересные штуки/Практика CI CD.md",
+    "Excalidraw/Схема наглядная pipeline.md",
+    "Excalidraw/Без названия.canvas",
+    "Golang/5. Tools доп инструменты/GitLab.md",
+    "Golang/5. Tools доп инструменты/GitHub.md",
+    "Практика.md",
+    "Практика CI/desktop.ini",
+    "Практика CI",
+    "Golang/5. Tools доп инструменты/PostgreSQL.md",
+    "Excalidraw/Drawing 2025-01-24 12.48.04.excalidraw.md",
+    "z Всякие картиночки",
+    "z Всякие картиночки/Pasted image 20250124222003.png",
+    "z Всякие картиночки/Pasted image 20250124221930.png",
+    "Golang/5. Tools доп инструменты/gRPC.md",
+    "CI/desktop.ini",
+    "Golang/5. Tools доп инструменты/CI",
+    "Код для справки, интересные штуки",
+    "Без названия.canvas"
+  ]
+}

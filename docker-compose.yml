@@ -1,0 +1,59 @@
+version: '3'
+
+services:
+  grpc-auth:
+    build: 
+      context: .
+    container_name: grpc-auth
+    ports:
+      - "50051:50051"
+    environment:
+      CONFIG_PATH: "/app/config/local.yaml"
+    depends_on:
+      - postgres
+    command: ["./main", "--config-path=/app/config/local.yaml"]
+    volumes:
+      - ./config:/app/config
+
+  grpc-walletuser:
+    build: 
+      context: .
+    container_name: grpc-walletuser
+    ports:
+      - "50052:50052"
+    environment:
+      CONFIG_PATH: "/app/config/local.yaml"
+    depends_on:
+      - postgres
+    command: ["./main", "--config-path=/app/config/local.yaml"]
+    volumes:
+      - ./config:/app/config
+
+  grpc-exchange:
+    build: 
+      context: .
+    container_name: grpc-exchange
+    ports:
+      - "50053:50053"
+    environment:
+      CONFIG_PATH: "/app/config/local.yaml"
+    depends_on:
+      - postgres
+    command: ["./main", "--config-path=/app/config/local.yaml"]
+    volumes:
+      - ./config:/app/config
+
+  postgres:
+    image: postgres:15
+    container_name: postgres
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: GRPCDB
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
