@@ -71,20 +71,14 @@
             "id": "95b907c279a18de3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Golang Tools инструменты-доска.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "JavaCode/Вопросы собеса 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Golang Tools инструменты-доска"
+              "icon": "lucide-file",
+              "title": "Вопросы собеса 1"
             }
           }
         ],
@@ -232,15 +226,16 @@
   },
   "active": "95b907c279a18de3",
   "lastOpenFiles": [
-    "Безымянная Kanban-доска.md",
-    "Golang Tools инструменты-доска.md",
     "JavaCode/Сложные вопросы.md",
-    "JavaCode/RabbitMQ questions.md",
-    "JavaCode/Kafka questions.md",
-    "JavaCode/Golang вопросы/desktop.ini",
-    "JavaCode/Резюме.md",
     "JavaCode/Вопросы собеседования.md",
+    "JavaCode/Kafka questions.md",
+    "JavaCode/Резюме.md",
     "JavaCode/Вопросы собеса 1.md",
+    "Golang/5. Tools доп инструменты/Redis.md",
+    "Golang Tools инструменты-доска.md",
+    "Безымянная Kanban-доска.md",
+    "JavaCode/RabbitMQ questions.md",
+    "JavaCode/Golang вопросы/desktop.ini",
     "JavaCode/Golang вопросы/4 goInterviewQuestions_1.md",
     "JavaCode/SQL вопросы/1 sqlInterviewQuestions.md",
     "JavaCode/Golang вопросы",
